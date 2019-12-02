@@ -17,6 +17,7 @@ Describe where your project is, how you could use Google’s help in the endeavo
 
 3.) as well as the timeline on how you plan on bringing it to life by May 1, 2020.
 > * I am not completely sure of all the steps required, but here’s my estimation
+> 
   > |Objective|Completion date|Key Result|
   > |---|---|---|
   > |Design user scenarios|January 1, 2020|Specification document|
